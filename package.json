@@ -1,0 +1,13 @@
+{
+  "name": "elan-clothing-shop",
+  "version": "1.0.0",
+  "description": "Modern clothing shopping website with an Express backend.",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

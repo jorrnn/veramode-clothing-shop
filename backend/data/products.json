@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "GoCrzy Jort",
+    "category": "Men",
+    "price": 250000,
+    "oldPrice": 270000,
+    "rating": 4,
+    "image": "/image/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "up and down snugwrld",
+    "category": "Men",
+    "price": 550000,
+    "oldPrice": 580000,
+    "rating": 4,
+    "image": "/image/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "up and down high fashion",
+    "category": "Men",
+    "price": 1200000,
+    "oldPrice": 1500000,
+    "rating": 4.5,
+    "image": "/image/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "YL top",
+    "category": "Women",
+    "price": 135000,
+    "oldPrice": 160000,
+    "rating": 4,
+    "image": "/image/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "isb TankTop",
+    "category": "Women",
+    "price": 120000,
+    "oldPrice": 145000,
+    "rating": 3.5,
+    "image": "/image/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "isb full kit",
+    "category": "Men",
+    "price": 750000,
+    "oldPrice": 820000,
+    "rating": 4,
+    "image": "/image/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "ZTTW Top",
+    "category": "Women",
+    "price": 250000,
+    "oldPrice": 270000,
+    "rating": 4,
+    "image": "/image/7.jpg"
+  },
+  {
+    "id": 1,
+    "name": "ZTTW up and down short",
+    "category": "Women",
+    "price": 450000,
+    "oldPrice": 480000,
+    "rating": 4,
+    "image": "/image/8.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Bolapsd",
+    "category": "Men",
+    "price": 120000,
+    "oldPrice": 150000,
+    "rating": 4,
+    "image": "/image/9.jpg"
+  }
+]
